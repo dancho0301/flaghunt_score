@@ -1,0 +1,1 @@
+web: gunicorn flaghunt.wsgi --log-file -
