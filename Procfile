@@ -1,1 +1,1 @@
-web: gunicorn flaghunt.wsgi --log-file -
+web: gunicorn flaghunt_score.wsgi --log-file -
